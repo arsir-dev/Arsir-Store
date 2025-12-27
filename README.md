@@ -115,6 +115,30 @@ Aplikasi menangani beberapa kondisi berikut:
 
 ---
 
+## 📱 App Screenshots
+
+| Splash | Onboarding |
+|--------------------|------|
+| ![](screenshots/splash.png) | ![](screenshots/onboarding.png) |
+
+| Login |
+|--------------------|------|
+| ![](screenshots/login.png) |
+
+| Home | Product Detail |
+|---------------|------|
+| ![](screenshots/home.png) | ![](screenshots/detail.png) |
+
+| Search & Category | Cart |
+|---------------|------|
+| ![](screenshots/search.png) | ![](screenshots/cart.png) |
+
+| Checkout | Profile |
+|---------|---------|
+| ![](screenshots/checkout.png) | ![](screenshots/profile.png) |
+
+---
+
 ## 🛠️ Setup Project
 
 ### 1️⃣ Clone Repository
