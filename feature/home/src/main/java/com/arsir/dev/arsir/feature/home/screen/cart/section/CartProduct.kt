@@ -43,6 +43,7 @@ import coil.compose.AsyncImage
 import com.arsir.dev.arsir.domain.product.model.Cart
 import com.arsir.dev.arsir.uikit.R
 import com.arsir.dev.arsir.uikit.circle.CircleIconButton
+import com.arsir.dev.arsir.uikit.ext.round
 import com.arsir.dev.arsir.uikit.theme.Typography
 
 @Composable
@@ -126,7 +127,7 @@ internal fun CartProduct(
                 }
 
                 Text(
-                    text = "$${cart.quantity * cart.price}",
+                    text = "$${(cart.quantity * cart.price).round()}",
                     fontSize = 18.sp,
                     style = Typography.subtitle1,
                     fontWeight = FontWeight.Bold,
