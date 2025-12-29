@@ -121,7 +121,7 @@ Aplikasi menangani beberapa kondisi berikut:
 |--------------------|------|
 | ![](screenshots/splash.png) | ![](screenshots/onboarding.png) |
 
-| Login |
+| Login ||
 |--------------------|------|
 | ![](screenshots/login.png) |
 
